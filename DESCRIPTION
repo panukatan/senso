@@ -13,6 +13,11 @@ Description: The Philippine Statistics Authority (PSA) makes census of
     utilities for accessing and processing the census of population and housing 
     data released by the PSA.
 License: GPL (>= 3)
+Suggests: 
+    spelling
 Encoding: UTF-8
 LazyData: true
+Language: en-GB
 RoxygenNote: 7.3.1
+
+
