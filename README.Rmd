@@ -16,6 +16,11 @@ knitr::opts_chunk$set(
 # senso: An Interface to the Philippine Census of Population and Housing Data
 
 <!-- badges: start -->
+[![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
+[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![R-CMD-check](https://github.com/panukatan/senso/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/panukatan/senso/actions/workflows/R-CMD-check.yaml)
+[![Codecov test coverage](https://codecov.io/gh/panukatan/senso/branch/main/graph/badge.svg)](https://app.codecov.io/gh/panukatan/senso?branch=main)
+[![CodeFactor](https://www.codefactor.io/repository/github/panukatan/senso/badge)](https://www.codefactor.io/repository/github/panukatan/senso)
 <!-- badges: end -->
 
 The Philippine Statistics Authority (PSA) makes census of population and housing data publicly available through various data publications and releases over time via their website. This package provides utilities for accessing and processing the census of population and housing data released by the PSA.
