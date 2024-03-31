@@ -1,0 +1,16 @@
+citHeader("To cite senso in publications use:")
+
+citEntry(
+  entry    = "Manual",
+  title    = "senso: An Interface to the Philippine Census of Population and Housing Data",
+  author   = person("Ernest Guevarra"),
+  year     = "2024",
+  note     = "R package version 0.0.0.9000",
+  url      = "https://panukatan.io/senso/",
+  textVersion = paste(
+    "Ernest Guevarra (2024).",
+    "talaan: An Interface to the Philippine Census of Population and Housing Data",
+    "R package version 0.0.0.9000",
+    "URL https://panukatan.io/senso/"
+  )
+)
